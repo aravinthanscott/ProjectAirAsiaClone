@@ -25,6 +25,7 @@ public static void main(String[] args) {
 	System.out.println("Enter The City");
 	String city= sc.next();
 	System.out.println("The City Is "+city);
+	System.out.println("The Clonning Is Done");
 
 
 }
